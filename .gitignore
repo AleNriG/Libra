@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# IDE
+.idea/
+
+# vim
+.*swp
+.*swo
+
+__pycache__/
+.mypy_cache/
+
+tests/
+!tests/*.py
